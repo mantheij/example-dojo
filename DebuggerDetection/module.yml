@@ -1,0 +1,4 @@
+name: Demo
+challenges:
+  - id: DebuggerDetection
+    name: Debugger Detection

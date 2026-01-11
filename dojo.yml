@@ -1,11 +1,11 @@
-id: example
-name: Example Dojo
-type: example
+id: anti_reversing
+name: Anti-Reversing
+type: dynamic1
 award:
   emoji: 😀
 image: pwncollege/challenge-simple
 modules:
-  - id: hello
-  - id: world
-  - id: demo
-  - id: lectures
+  - id: DebuggerDetection
+    name: Debugger Detection
+
+    
