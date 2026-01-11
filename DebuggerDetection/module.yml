@@ -1,4 +1,16 @@
-name: Demo
+id: debugger-detection
+name: Debugger Detection
+description: |
+  Learn how programs can detect debuggers by checking the TracerPid field 
+  in /proc/self/status. Your goal is to obtain the flag without triggering 
+  the debugger detection.
+
 challenges:
   - id: debugger-detection
     name: Debugger Detection
+    description: |
+      This challenge checks if a debugger is attached by reading /proc/self/status.
+      
+      Your task: Get the flag without being detected.
+      
+      Hint: Think about how you could bypass or manipulate the detection mechanism.
