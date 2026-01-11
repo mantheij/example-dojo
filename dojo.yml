@@ -5,7 +5,7 @@ award:
   emoji: 😀
 image: pwncollege/challenge-simple
 modules:
-  - id: DebuggerDetection
+  - id: debugger-detection
     name: Debugger Detection
 
     

@@ -1,4 +1,4 @@
 name: Demo
 challenges:
-  - id: DebuggerDetection
+  - id: debugger-detection
     name: Debugger Detection
