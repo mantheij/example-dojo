@@ -27,3 +27,17 @@ Die Challenge führt in grundlegende Anti-Debugging-Techniken ein. Zuerst wird e
    ./run.sh
    ```
 5. Analysiere das Verhalten des Programms und arbeite auf das Flag hin.
+
+## Challenge lokal starten
+
+1. Stelle sicher, dass du ein Linux-System nutzt.
+2. Wechsle in das Challenge-Verzeichnis.
+3. Mache die Dateien ausführbar:
+   ```bash
+   chmod +x run.sh challenge
+   ```
+4. Starte die Challenge:
+   ```bash
+   ./run.sh
+   ```
+5. Für Analyse oder Debugging kannst du das Binary direkt ausführen oder mit Tools untersuchen.
